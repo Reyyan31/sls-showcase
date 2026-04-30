@@ -32,11 +32,7 @@ I designed the system architecture, built all 8 role-based portals, owned the da
 <table>
   <tr>
     <td><img src="sls-1.jpg" alt="SLS Dashboard" width="100%"/></td>
-    <td><img src="sls-2.jpg" alt="SLS Student Management" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="sls-3.jpg" alt="SLS Fee Management" width="100%"/></td>
-    <td><img src="sls-4.jpg" alt="SLS Financial Reports" width="100%"/></td>
+    <td><img src="sls-2.webp" alt="SLS School Management" width="100%"/></td>
   </tr>
 </table>
 
